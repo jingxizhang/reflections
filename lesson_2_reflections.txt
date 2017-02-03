@@ -1,8 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 Call git init. Because the repository needs a .git hidden folder to store the status and other meta data of the files in the repository.
 I need also run git status to confirm the repository created.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the place to record what are going to commit. It provides a single commit command to commit multiple files.
+
+How can you use the staging area to make sure you have one commit er logical change?
+You can continue add files to staging area until all the file related to the same logical change are added then do a single commit.
+
 
 

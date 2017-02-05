@@ -12,4 +12,10 @@ Branch is happend within a repository. Branch is labling a commit which is devel
 What is the benefit of having a copy of the last known state of the remote stored locally?
 With last know state of the remote repository stored locally you can synchronized with other collaborated commits.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using Git or GitHub, you have to transfer the files using ftp, email or other means for the collaboration. It is much harder to maintain the work history state and synchronize the collaborated works.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefit does each approach have?
+When you experimenting a new idea but do not want interfere the current collaboration work you would want to make changes in a separate branch. It is more work but it is more safe and clean.
+
 
